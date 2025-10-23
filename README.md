@@ -7,7 +7,7 @@
 </head>
 <body class="home">
   <div class="center fade-in">
-    <h1 class="typewriter">Hey, my love 💕</h1>
+    <h1 class="typewriter">Hey baby 💕</h1>
     <p>Something special is waiting for you...</p>
     <button onclick="location.href='letter.html'">Open it 💌</button>
   </div>
