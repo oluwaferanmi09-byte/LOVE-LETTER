@@ -1,12 +1,3 @@
-love-letter/
-│
-├── index.html         ← home page
-├── letter.html        ← main love letter
-├── memories.html      ← gallery
-├── countdown.html     ← timer page
-├── style.css          ← shared styles
-└── herphoto.jpg       ← your uploaded image
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -22,7 +13,6 @@ love-letter/
   </div>
 </body>
 </html>
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
