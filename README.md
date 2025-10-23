@@ -1,11 +1,24 @@
+<!DOCTYPE html>
 <html>
 <head>
-For My Love 💖
+  <title>For My Love 💖</title>
+  <style>
+    body { 
+      background-color: #ffe6f2; 
+      font-family: 'Poppins', sans-serif; 
+      text-align: center;
+    }
+    h1 { color: #ff4081; }
+    p { color: #555; max-width: 600px; margin: auto; font-size: 18px; }
+  </style>
 </head>
 <body>
-  <h1>To Jazhi </h1>
+  <h1>To my jazhi</h1>
   <p>Dating you is the best choice i could have ever made, Every day i wake up thinking about you, my love for you grows exponentially each day and i really wanted to show how much i loved you i'm not entirely sure why i chose a website though this is so hard but its worth it for you </p>
-  <p> i love you so much</p>
+  <p>— I'll always love you</p>
+  <audio controls autoplay>
+    <source src="your-song.mp3" type="audio/mp3">
+  </audio>
 </body>
 </html>
 <iframe width="300" height="170"
