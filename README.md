@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 For My Love 💖
