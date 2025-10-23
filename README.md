@@ -8,6 +8,9 @@ For My Love 💖
   <p> i love you so much</p>
 </body>
 </html>
-<iframe width="560" height="315" 
-src="https://youtu.be/CwGbMYLjIpQ?si=nq4hSFVCDLo35nGK/embed/VIDEO_ID?autoplay=1&loop=1" 
-frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="300" height="170"
+  src="https://www.youtube.com/embed/CwGbMYLjIpQ?autoplay=1&loop=1&playlist=CwGbMYLjIpQ"
+  frameborder="0"
+  allow="autoplay; encrypted-media"
+  allowfullscreen>
+</iframe>
