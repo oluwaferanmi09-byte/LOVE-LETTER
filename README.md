@@ -1,3 +1,4 @@
+![WhatsApp Image 2025-10-23 at 00 14 18_82389ba2](https://github.com/user-attachments/assets/f07b4289-bd31-4484-aade-42ae0662dd41)
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -46,7 +47,8 @@
   <div class="center fade-in">
     <h1>Some of Our Favorite Moments 💕</h1>
     <div class="gallery">
-      <img src="herphoto.jpg" alt="Memory 1">
+      <img src="herphoto.jpg![WhatsApp Image 2025-10-23 at 00 14 18_82389ba2](https://github.com/user-attachments/assets/485ba783-98ee-4298-aaa6-7be7caf00d82)
+" alt="Memory 1">
       <img src="herphoto.jpg" alt="Memory 2">
       <img src="herphoto.jpg" alt="Memory 3">
     </div>
